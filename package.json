@@ -1,0 +1,29 @@
+{
+    "name": "task",
+    "version": "0.0.1",
+    "description": "A library for task future",
+    "homepage": "https://github.com/a696385/task",
+    "author": "Andy Sumskoy <andy@i2you.ru> (https://github.com/a696385/task)",
+    "keywords": [
+        "task",
+        "promise",
+        "promises",
+        "deferred",
+        "future",
+        "async",
+        "flow control",
+        "node"
+    ],
+    "bugs": {
+        "mail": "andy@i2you.ru",
+        "url": "https://github.com/a696385/task/issues"
+    },    
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/a696385/task.git"
+    },
+    "engines": {
+        "node": ">=0.6.0"
+    },
+    "dependencies": {}
+}
