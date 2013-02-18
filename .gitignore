@@ -11,5 +11,6 @@ pids
 logs
 results
 .idea
+.c9revisions
 
 npm-debug.log
